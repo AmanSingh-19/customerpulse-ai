@@ -156,3 +156,9 @@ import joblib
 
 joblib.dump(model, "models/churn_model.pkl")
 joblib.dump(scaler, "models/scaler.pkl")
+
+
+
+print("Accuracy:", accuracy_score(y_test, y_pred))
+print("Clusters:", rfm["Cluster"].nunique())
+print(rfm["Segment"].value_counts())
