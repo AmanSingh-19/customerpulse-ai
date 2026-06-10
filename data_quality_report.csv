@@ -1,0 +1,10 @@
+Table Name,Rows,Columns,Missing Values,Duplicate Rows
+olist_customers_dataset,99441,5,0,0
+olist_geolocation_dataset,1000163,5,0,261831
+olist_order_items_dataset,112650,7,0,0
+olist_order_payments_dataset,103886,5,0,0
+olist_order_reviews_dataset,99224,7,145903,0
+olist_orders_dataset,99441,8,4908,0
+olist_products_dataset,32951,9,2448,0
+olist_sellers_dataset,3095,4,0,0
+product_category_name_translation,71,2,0,0
